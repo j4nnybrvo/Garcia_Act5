@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(71, 102, 104);
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    text-align: left;
+}
+
+h4 {
+    color: black;
+    text-align: left;
+}
+p {
+    color: black;
+    text-align: center;
+}
+
+a {
+    background-color: white;
+    color: blue;
+    text-align: center;
+}
+
+ul {
+    color: black;
+    text-align: left;
+}
+
+ol {
+    color: black;
+    text-align: left;
+}
